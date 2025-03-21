@@ -1,0 +1,13 @@
+src
+public
+index.html
+package.json
+README.md
+tsconfig.app.json
+tsconfig.json
+tsconfig.node.json
+vite.config.ts
+.gitignore
+node_modules/
+eslint.config.js
+.gitignore
