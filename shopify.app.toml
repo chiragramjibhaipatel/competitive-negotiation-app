@@ -1,7 +1,7 @@
 # Learn more about configuring your app at https://shopify.dev/docs/apps/tools/cli/configuration
 
 client_id = "296d03e345739324f0123324d4ba1707"
-application_url = "https://filing-jeans-proudly-prevent.trycloudflare.com"
+application_url = "https://blind-strictly-domain-slideshow.trycloudflare.com"
 embedded = true
 name = "competitive-negotiation-app"
 handle = "competitive-negotiation-app-8"
@@ -27,9 +27,9 @@ scopes = "write_products"
 
 [auth]
 redirect_urls = [
-  "https://filing-jeans-proudly-prevent.trycloudflare.com/auth/callback",
-  "https://filing-jeans-proudly-prevent.trycloudflare.com/auth/shopify/callback",
-  "https://filing-jeans-proudly-prevent.trycloudflare.com/api/auth/callback"
+  "https://blind-strictly-domain-slideshow.trycloudflare.com/auth/callback",
+  "https://blind-strictly-domain-slideshow.trycloudflare.com/auth/shopify/callback",
+  "https://blind-strictly-domain-slideshow.trycloudflare.com/api/auth/callback"
 ]
 
 [pos]

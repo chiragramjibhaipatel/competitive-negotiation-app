@@ -25,6 +25,7 @@ export default function App() {
           Home
         </Link>
         <Link to="/app/additional">Additional page</Link>
+        <Link to="/app/html-form-validation-with-conform">HTML Form Validation with Conform</Link>
       </NavMenu>
       <Outlet />
     </AppProvider>
