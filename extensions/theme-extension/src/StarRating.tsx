@@ -8,8 +8,7 @@ function StarRating({ productId }: { productId: string | undefined }) {
   return (
     <>
      <div>
-      <p>Star Rating</p>
-      <p>Product ID: {productId}</p>
+      <p>Star Rating of this product is {productId}</p>
      </div>
     </>
   )
